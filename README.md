@@ -45,7 +45,7 @@
   <ul>
       <li>
         <strong>Relatório de análise de vendas globais (Power BI)</strong> 
-        <strong>🔗 <a href="[https://github.com/karlacoelhoeal/portifolioPWBI/projeto_1](https://github.com/karlacoelhoeal/portifolioPWBI/tree/main/projeto_1)" target="_blank">Repositório</a></strong>
+        <strong>🔗 <a href="https://github.com/karlacoelhoeal/portifolioPWBI/tree/main/projeto_1" target="_blank">Repositório</a></strong>
       </li>
   
   </ul>
