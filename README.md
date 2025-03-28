@@ -1,6 +1,6 @@
 ## Olá! 👋
 <div align="center"> <a href="https://github.com/karlacoelhoeal"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlacoelhoeal&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> 
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlacoelhoeal&layout=compact&langs_count=7&theme=monokai"/> </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlacoelhoeal&layout=compact&langs_count=7&theme=monokai"/> </div>
   
 <div align="center">
   <h1>📊 Karla Coelho</h1>
