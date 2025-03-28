@@ -40,7 +40,7 @@
   <h2>Projetos em Destaque</h2>
   <ul>
       <li>
-        <strong>colocar descrição aqui, e link do repositório abaixo  
+        <strong>colocar descrição aqui, e link do repositório abaixo</strong> 
         <strong>🔗 <a href="https://github.com/karlacoelhoeal/moquecaufes" target="_blank">Repositório</a></strong>
       </li>
   
