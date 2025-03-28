@@ -44,8 +44,8 @@
   <h2>Projetos em Destaque</h2>
   <ul>
       <li>
-        <strong>colocar descrição aqui, e link do repositório abaixo</strong> 
-        <strong>🔗 <a href="https://github.com/karlacoelhoeal/moquecaufes" target="_blank">Repositório</a></strong>
+        <strong>Relatório de análise de vendas globais (Power BI)</strong> 
+        <strong>🔗 <a href="https://github.com/karlacoelhoeal/portifolioPWBI/projeto_1" target="_blank">Repositório</a></strong>
       </li>
   
   </ul>
