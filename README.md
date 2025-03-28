@@ -9,7 +9,8 @@
   <!-- Badges de Tecnologias -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black" alt = "Power BI" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" />
+
 </div>
 
 <hr>
