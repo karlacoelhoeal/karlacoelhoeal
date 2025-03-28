@@ -47,6 +47,10 @@
         <strong>Relatório de análise de vendas globais (Power BI)</strong> 
         <strong>🔗 <a href="https://github.com/karlacoelhoeal/portifolioPWBI/tree/main/projeto_1" target="_blank">Repositório</a></strong>
       </li>
+      <li>
+        <strong>Análise de vendas, custos, margens de lucro e KPIs (Power BI)</strong>
+        <strong>🔗 <a  href="https://github.com/karlacoelhoeal/portifolioPWBI/tree/main/projeto_2" target="_blank">Repositório</a></strong>
+      </li>
   
   </ul>
 </div>
